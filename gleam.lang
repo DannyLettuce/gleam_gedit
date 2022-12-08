@@ -25,7 +25,7 @@
   <metadata>
     <property name="mimetypes">text/x-gleam</property>
     <property name="globs">*.gleam</property>
-    <property name="line-comment-start">"//"</property>
+    <property name="line-comment-start">//</property>
   </metadata>
 
   <styles>
